@@ -428,7 +428,7 @@ From the GridSearch cross-validation of 3 folds;
 
 Overall, the `behavior_score` variable provides a quantitative representation of individuals' engagement in flu-preventive behaviors/measures. The majority of individuals demonstrate a moderate to high level of caution, as indicated by their behavior scores. The distribution of scores highlights the variability in behavior across the population, with some individuals exhibiting lower levels of engagement and others being more proactive in flu prevention.
 
-![Image](Visualizations/Conclusion no.2.png)
+![image](https://github.com/Kinya01/Flu-Vaccine-Prediction-Project/assets/128283613/bb168dbf-27c3-47b1-94e9-408854707981)
 
 From the graph, people who engage in at least 6 out of the 7 preventive measures have a mean vaccination rate of 53%.
 
@@ -454,7 +454,7 @@ The best and final model is the tuned XGBoost based on the below:
 - This will enable for consistency and accurate assessment of our trained model in terms of its ability to generalize to new unseen datasets.
 - After all the preprocessing steps, we make predictions and finally compare and visualize our predictions to the actual labels, to get a sense of how our best model is performing, as shown by the plot below.
 
-![Image](Visualizations/Actual vs Predictions.png)
+![image](https://github.com/Kinya01/Flu-Vaccine-Prediction-Project/assets/128283613/11cfd138-84b4-4ddf-b98d-8462840795b1)
 
 - From the plot above, we can see that our model is actually performing quite well in predicting both classes! With just some minor inaccuracy.
 
